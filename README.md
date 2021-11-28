@@ -13,4 +13,6 @@ to make the bot work.
 Choose the cryptos you want to track and the alerts you want to set 
 (up alerts and down alerts).
 Please note you'll need to put the same cryptos in the 4 fields 
-(cryptos, down_alerts, up_alerts and count) 
+(cryptos, down_alerts, up_alerts and count)
+
+Need help? Twitter @0xRayan_
