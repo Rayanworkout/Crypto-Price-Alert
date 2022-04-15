@@ -1,6 +1,6 @@
 # Price Alert
 
-A bot that sens you telegram alerts for the cryptos you want to track. 
+A bot that sends you telegram alerts for the cryptos you want to track. 
 
 You just need to sign in to [CoinMarketCap API](https://coinmarketcap.com/api/) in order to 
 get a free API key and to perform up to 333 requests a day.
